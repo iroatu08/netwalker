@@ -66,15 +66,9 @@ color:#5B5B5B;
 
 
 section{
-    display:flex;
-    width:100%;
     padding-top: 15px;
     
 }
-/* section > *:last-child {
-    margin-left: 15px;
-} */
-
 .sidebar{
     width: 20%;
     position: fixed;
@@ -99,6 +93,7 @@ section{
     font-size: 12px;
     color: #5B5B5B;
     justify-content: space-between;
+    cursor: pointer;
 }
 
 
