@@ -224,10 +224,17 @@ margin-left: auto;
 
 @media screen and (max-width: 912px) {
     .main-content{
-        width: 100%;
+        width: 94%;
     }
     .footer{
         width: 100%;
+    }
+    .sidebar{
+        display: none;
+    }
+
+    .logo{
+        display: none;
     }
 
 
